@@ -2,7 +2,7 @@ Hi there,
 
 thanks for checking this page.
 
-<a rel="me" href="https://mastodon.social/@agvdberg">(Mastodon verification line)</a>
+<a rel="me" href="https://mastodon.social/@agvdberg">I am mastodon.social/@agvdberg (this is a Mastodon verification line)</a>
 
 <!---
 agvdberg/agvdberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
