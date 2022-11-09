@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @agvdberg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... to connect my Somfy IO screens to HomeAssistant
-- 💞️ I’m looking to collaborate on ... HomeAssistant
-- 📫 How to reach me ... 
+
+<a rel="me" href="https://mastodon.social/@agvdberg">Mastodon</a>
 
 <!---
 agvdberg/agvdberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
